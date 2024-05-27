@@ -1,2 +1,2 @@
 # sylvia
-A python Script (malware)  that access User browser Data
+A python Script that access User browser Data
